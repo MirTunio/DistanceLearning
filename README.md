@@ -7,7 +7,7 @@ https://medium.com/burningdaylight/distance-learning-in-low-bandwidth-areas-conc
 
 
 
-First Thoughts:
+First Thoughts: /n
 #TODO
 
 
