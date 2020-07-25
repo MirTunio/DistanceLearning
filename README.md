@@ -24,5 +24,6 @@ https://medium.com/burningdaylight/distance-learning-in-low-bandwidth-areas-conc
 tuniomurtaza at gmail.com
 
 ## License
-This project is open-source and designed for use in free-of-cost non-profit education ventures.
+This project is open-source and designed for use in free-of-cost non-profit education ventures.\
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
