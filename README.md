@@ -9,7 +9,7 @@ https://medium.com/burningdaylight/distance-learning-in-low-bandwidth-areas-conc
 https://docs.google.com/document/d/1u890m2ys3N1MubReHV9qbAmeO3gm5cAH7uugBpkoPdQ/edit?usp=sharing
 
 ## Contact:
-tuniomurtaza at gmail.com
+tuniomurtaza at gmail
 
 ## License
 This project is open-source and designed for use in free-of-cost non-profit education ventures.
