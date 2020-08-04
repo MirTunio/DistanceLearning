@@ -16,7 +16,7 @@ Works best when you're about 4ft from the camera and your head, shoulders and ar
 If you stand further away you can see how posenet draws a full body skeleton, but you will probably
 lose the face-detection at this distance.
 ## Try it Online:
-(Haven't figured this out yet)
+First Demonstration with no avatar: https://mirtunio.github.io/DistanceLearning/FirstDemonstration/
 
 ## Try it on your computer:
 Download zip or clone, then click index.html
